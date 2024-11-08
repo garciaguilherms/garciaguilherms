@@ -8,4 +8,4 @@ Full-Stack Developer at [Jetimob](https://www.jetimob.com/);<br>
 - 💬 Socials: <br>
   - `.linkedin`: [/garciaguilherms](https://www.linkedin.com/in/garcia-guilherme/)
 
-Check my best projects below 👇🏼
+Check my projects below 👇🏼
