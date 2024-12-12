@@ -2,6 +2,6 @@
 
 full-stack developer at [Jetimob](https://www.jetimob.com/);<br>
 
-⚙️ tech stack: php, laravel, js, vuejs, reactjs, mysql, postgresql <br>
+⚙️ tech stack: php, laravel, javascript, vue, react, mysql, postgresql <br>
 💬 socials: <br>
-`.linkedin`: [/garciaguilherms](https://www.linkedin.com/in/garcia-guilherme/)
+linkedin: [/garciaguilherms](https://www.linkedin.com/in/garcia-guilherme/)
